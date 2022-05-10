@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @iakzs
-- 😎 Works on github.com/iakzs/TheHub/main
+- 😎 Works on https://www.github.com/iakzs/TheHub/
