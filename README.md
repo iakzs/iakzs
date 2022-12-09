@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iakzs
-- 😎 Works on https://www.github.com/iakzs/TheHub/
+- 😎 Works on https://www.github.com/iakzs/TheHub/ and https://www.github.com/iakzs/TheXploit/
 - 👉 https://iakzs.github.io 👈
