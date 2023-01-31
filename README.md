@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @iakzs
-- 😎 Works on https://www.github.com/iakzs/TheHub/ , https://www.github.com/iakzs/TheXploit/ and https://www.github.com/iakzs/t/
+- 😎 Works on https://www.github.com/iakzs/TheHub/ , https://www.github.com/iakzs/TheXploit/
 - 👉 check https://iakzs.github.io for projects 👈
+- 😀 check https://iakzs.pingpong.host for status! 😀
