@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @iakzs
-- 😎 Works on https://www.github.com/iakzs/alettertoyou and more
-- 👉 Check https://iakzs.is-a.dev for projects 👈
+[![Discord](https://lanyard.cnrad.dev/api/622795838032314388)](https://discord.com/users/622795838032314388)
 
 [![iakzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakzs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
