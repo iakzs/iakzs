@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=iakzs&color=green&label=cool+users)
+(started at 12-15-2023 16:42:34 CL hour)
 
 [![Discord](https://lanyard.cnrad.dev/api/622795838032314388)](https://discord.com/users/622795838032314388)
 
