@@ -15,3 +15,6 @@
 <a href="#stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iakzs&show_icons=true&line_height=27&count_private=true&theme=react" alt="iakzs's GitHub Stats">
 </a>
+
+## Stuff 2
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,apple,arduino,blender,c,cpp,cs,cloudflare,cmake,discord,bots,discordjs,docker,flask,git,github,kali,lua,mongodb,mysql,nextjs,nginx,nodejs,npm,ps,postgres,powershell,prisma,py,qt,react,redis,redux,robloxstudio,sqlite,sentry,ubuntu,unity,visualstudio,vscode,windows,workers)](https://skillicons.dev)
