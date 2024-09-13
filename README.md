@@ -1,20 +1,40 @@
-## Stuff
-![](https://komarev.com/ghpvc/?username=iakzs&color=green&label=cool+users)
-(started at 12-15-2023 16:42:34 CL hour)
+# 👋 Welcome to My GitHub Profile!
 
-[![](https://visitcount.itsvg.in/api?id=iakzs&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-(started at 12-02-2024 12:39:01 CL Hour)
+![Profile Views](https://komarev.com/ghpvc/?username=iakzs&color=green&label=Profile+Views)\
+*Started counting on 15-Dec-2023 16:42:34 CL Hour*
 
-## Socials
+[![Profile Views](https://visitcount.itsvg.in/api?id=iakzs&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)\
+*Started counting on 02-Dec-2024 12:39:01 CL Hour*
+
+---
+
+## 🌟 About Me
+
+I am a person that likes coding, many sports, using FL Studio 20 and sleeping.
+
+---
+
+## 💬 Connect with Me
+
 [![Discord](https://lanyard.cnrad.dev/api/622795838032314388)](https://discord.com/users/622795838032314388)
 
-## Stats:
-<a href="#stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakzs&hide=Makefile&theme=react">
-</a>
-<a href="#stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iakzs&show_icons=true&line_height=27&count_private=true&theme=react" alt="iakzs's GitHub Stats">
-</a>
+*Feel free to reach out to me on Discord!*
 
-## Stuff 2
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,apple,arduino,blender,c,cpp,cs,cloudflare,cmake,discord,bots,discordjs,docker,flask,git,github,kali,lua,mongodb,mysql,nextjs,nginx,nodejs,npm,ps,postgres,powershell,prisma,py,qt,react,redis,redux,robloxstudio,sqlite,sentry,ubuntu,unity,visualstudio,vscode,windows,workers)](https://skillicons.dev)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iakzs&show_icons=true&line_height=27&count_private=true&theme=react" alt="iakzs's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakzs&hide=Makefile&theme=react" alt="Top Languages" />
+</div>
+
+---
+
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ae,apple,arduino,blender,bots,c,cloudflare,cmake,cpp,cs,css,discord,discordjs,docker,flask,git,github,html,js,kali,lua,mongodb,mysql,nextjs,nginx,nodejs,npm,postgres,powershell,prisma,ps,py,qt,react,redis,redux,robloxstudio,sentry,sqlite,ubuntu,unity,visualstudio,vscode,windows,workers)](https://skillicons.dev)
+
+---
+
+You can explore my repos if you have any questions, collaboration ideas or just anything! (Questions and ideas to my Discord)
