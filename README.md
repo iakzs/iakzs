@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I am a person that likes coding, many sports, using FL Studio 24 and sleeping.
+I am a person that likes coding, many sports and sleeping.
 
 ---
 
@@ -24,7 +24,6 @@ I am a person that likes coding, many sports, using FL Studio 24 and sleeping.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iakzs&show_icons=true&line_height=27&count_private=true&theme=react" alt="iakzs's GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=iakzs&theme=transparent&mode=weekly" alt="hi" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakzs&hide=Makefile&theme=react" alt="Top Languages" />
 </div>
 
 ---
