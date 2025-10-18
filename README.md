@@ -23,6 +23,7 @@ I am a person that likes coding, many sports and sleeping.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iakzs&show_icons=true&line_height=27&count_private=true&theme=react" alt="iakzs's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21538&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue_navy" alt="iakzs's Hackatime Stats" />
 </div>
 
 ---
