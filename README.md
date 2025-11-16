@@ -1,8 +1,9 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to the greatest GitHub profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iakzs&color=green&label=Profile+Views)\
 *Started counting on 15-Dec-2023 16 : 42 : 34 GMT-03:00*
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C51OKHS7)
 ---
 
 ## 🌟 About Me
