@@ -1,4 +1,5 @@
 # haaai! i'm kalze 👋
+![Profile Views](https://komarev.com/ghpvc/?username=iakzs&color=green&label=profile+views)
 
 i'm a **student, freelancer & dev** from Chile 🇨🇱. i spend way too much time in **C#**, **TypeScript**, and **Python** building things that probably shouldn't work, but do.
 
