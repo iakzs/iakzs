@@ -33,9 +33,13 @@ currently spending time between security research and some other projects. if i'
 
 * **KMod/Kalze:** a simple QoL minecraft mod.
 * **ACS:** making human-interaction simulators for anti-cheat research in Minecraft.
-* **Epic-Bot:** my long-standing Discord project. [link](https://top.gg/bot/1181315256505618462)
-* **TagBot:** a simple Discord bot for managing tag users. [link](https://top.gg/bot/1455962192691073118)
+* **[Epic-Bot](https://top.gg/bot/1181315256505618462):** my long-standing Discord project.
+* **[TagBot](https://top.gg/bot/1455962192691073118):** a simple Discord bot for managing tag users.
 * **Atlas:** the smallest GPS tracker with lots of features! 
+
+### contributions
+* **[Sokora](https://github.com/Chiissu/Sokora):** active developer.
+* **[Robo.js](https://github.com/Wave-Play/robo.js):** contributed a [feature](https://github.com/Wave-Play/robo.js/commit/90c7b4737f1eb68663449e7fa6c3853bf8e58515).
 
 ### websites
 
