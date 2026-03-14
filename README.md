@@ -38,7 +38,7 @@ currently spending time between security research and some other projects. if i'
 * **Atlas:** the smallest GPS tracker with lots of features! 
 
 ### contributions
-* **[Sokora](https://github.com/Chiissu/Sokora):** active developer.
+* **[Sokora](https://github.com/SokoraDesu/Sokora):** active developer.
 * **[Robo.js](https://github.com/Wave-Play/robo.js):** contributed a [feature](https://github.com/Wave-Play/robo.js/commit/90c7b4737f1eb68663449e7fa6c3853bf8e58515).
 
 ### websites
