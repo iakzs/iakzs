@@ -41,8 +41,8 @@ currently spending time between security research and some other projects. if i'
 * **[Sokora](https://github.com/SokoraDesu/Sokora):** active developer.
 * **[Robo.js](https://github.com/Wave-Play/robo.js):** contributed a [feature](https://github.com/Wave-Play/robo.js/commit/90c7b4737f1eb68663449e7fa6c3853bf8e58515).
 
-### websites
+### website
 
-[iakzs.dev](https://iakzs.dev/) | [kalze.dev](https://kalze.dev/)
+[kalze.dev](https://kalze.dev/)
 
 [![support me](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/29dkz)
