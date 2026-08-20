@@ -1,9 +1,7 @@
 # haaai! i'm kalze 👋
-![Profile Views](https://komarev.com/ghpvc/?username=iakzs&color=green&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=iakzs&color=ff69b4&label=profile+views)
 
-i'm a **student, freelancer & dev** from Chile 🇨🇱. i spend way too much time in **C#**, **TypeScript**, and **Python** building things that probably shouldn't work, but do.
-
-currently spending time between security research and some other projects. if i'm not coding, i'm probably figuring out why my laptop is making so much noise...
+i'm a **student, freelancer & dev** from Chile 🇨🇱. i spend way too much time in **Go**, **TypeScript**, and **Python** building things that probably shouldn't work, but do.
 
 ### knowledge
 
@@ -25,20 +23,19 @@ currently spending time between security research and some other projects. if i'
 #### hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-31409E?style=for-the-badge&logo=kicad&logoColor=white)
-![LTE](https://img.shields.io/badge/LTE%2FGPS-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
 ---
 
 ### some projects
 
-* **KMod/Kalze:** a simple QoL minecraft mod.
+* **KMod:** a simple QoL minecraft mod.
 * **ACS:** making human-interaction simulators for anti-cheat research in Minecraft.
 * **[Epic-Bot](https://top.gg/bot/1181315256505618462):** my long-standing Discord project.
-* **[TagBot](https://top.gg/bot/1455962192691073118):** a simple Discord bot for managing tag users.
-* **Atlas:** the smallest GPS tracker with lots of features! 
+* **[TagBot](https://top.gg/bot/1455962192691073118):** a simple Discord bot for managing tag users. **No hosting!**
+* **Atlas:** the smallest GPS tracker with lots of features!
 
 ### contributions
-* **[Sokora](https://github.com/SokoraDesu/Sokora):** active developer.
+* **[Sokora](https://github.com/SokoraDesu/Sokora):** was an active developer.
 * **[Robo.js](https://github.com/Wave-Play/robo.js):** contributed a [feature](https://github.com/Wave-Play/robo.js/commit/90c7b4737f1eb68663449e7fa6c3853bf8e58515).
 
 ### website
