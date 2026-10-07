@@ -1,7 +1,6 @@
 # haaai! i'm kalze 👋
-![Profile Views](https://komarev.com/ghpvc/?username=iakzs&color=ff69b4&label=profile+views)
 
-i'm a **student, freelancer & dev** from Chile 🇨🇱. i spend way too much time in **Go**, **TypeScript**, and **Python** building things that probably shouldn't work, but do.
+i'm a **student & dev** from Chile 🇨🇱. i spend way too much time in **Go**, **TypeScript**, and **Python** building things that probably shouldn't work, but do.
 
 ### knowledge
 
@@ -28,18 +27,17 @@ i'm a **student, freelancer & dev** from Chile 🇨🇱. i spend way too much ti
 
 ### some projects
 
+* **[Epic-Bot](https://top.gg/bot/1181315256505618462):** my long-standing Discord project, with over 18k users.
+* **[TagBot](https://top.gg/bot/1455962192691073118):** a simple Discord bot for managing equipped-tag users.
 * **KMod:** a simple QoL minecraft mod.
 * **ACS:** making human-interaction simulators for anti-cheat research in Minecraft.
-* **[Epic-Bot](https://top.gg/bot/1181315256505618462):** my long-standing Discord project.
-* **[TagBot](https://top.gg/bot/1455962192691073118):** a simple Discord bot for managing tag users. **No hosting!**
-* **Atlas:** the smallest GPS tracker with lots of features!
 
 ### contributions
-* **[Sokora](https://github.com/SokoraDesu/Sokora):** was an active developer.
-* **[Robo.js](https://github.com/Wave-Play/robo.js):** contributed a [feature](https://github.com/Wave-Play/robo.js/commit/90c7b4737f1eb68663449e7fa6c3853bf8e58515).
+* **[Sokora](https://github.com/SokoraDesu/Sokora):** was an [active](https://github.com/SokoraDesu/Sokora/commits?author=iakzs) developer.
+* **[Robo.js](https://github.com/Wave-Play/robo.js):** contributed a [feature](https://github.com/Wave-Play/robo.js/commit/90c7b4737f1eb68663449e7fa6c3853bf8e58515) to this discord.js alternative.
+* **[Discord-Userdoccers](https://github.com/discord-userdoccers/discord-userdoccers):** contributed to the community reference for undocumented Discord API internals.
+* **[Wumpus Central](https://github.com/Wumpus-Central):** contributor.
 
-### website
+### security research
 
-[kalze.dev](https://kalze.dev/)
-
-[![support me](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/29dkz)
+reported 5 vulnerabilities, more information in my [hackedin](https://hackedin.net/kzy).
