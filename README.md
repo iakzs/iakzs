@@ -36,8 +36,7 @@ i'm a **student & dev** from Chile 🇨🇱. i spend way too much time in **Go**
 * **[Sokora](https://github.com/SokoraDesu/Sokora):** was an [active](https://github.com/SokoraDesu/Sokora/commits?author=iakzs) developer.
 * **[Robo.js](https://github.com/Wave-Play/robo.js):** contributed a [feature](https://github.com/Wave-Play/robo.js/commit/90c7b4737f1eb68663449e7fa6c3853bf8e58515) to this discord.js alternative.
 * **[Discord-Userdoccers](https://github.com/discord-userdoccers/discord-userdoccers):** contributed to the community reference for undocumented Discord API internals.
-* **[Wumpus Central](https://github.com/Wumpus-Central):** contributor.
 
 ### security research
 
-reported 5 vulnerabilities, more information in my [hackedin](https://hackedin.net/kzy).
+reported 6 vulnerabilities, more information in my [hackedin](https://hackedin.net/kzy).
